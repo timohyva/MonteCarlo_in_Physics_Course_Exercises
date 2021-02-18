@@ -1,0 +1,8 @@
+The upper tail critical values for Chi square test when M=61+1
+is 82.232, while the low one is 44.058.
+
+Based on the test result in *.out files, LCG is not good. The python random.uniform
+is better than LCG. the \chi^{2} test static of LCG is totally rejected by null hypothesis.
+But the python.random one is totally received.
+
+I am not yet test the park-miller and other. Sorry about that.

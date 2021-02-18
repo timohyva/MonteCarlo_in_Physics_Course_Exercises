@@ -1,0 +1,172 @@
+thet result of classification by bins is [789, 821, 804, 792, 828, 789, 810, 818, 790, 818, 809, 791, 826, 792, 805, 821, 790, 817, 812, 789, 825, 796, 800, 823, 789, 815, 815, 788, 824, 800, 796, 825, 789, 813, 817, 788, 821, 805, 793, 825, 793, 807, 819, 789, 819, 810, 790, 826, 793, 803, 822, 789, 815, 814, 789, 824, 798, 799, 824, 788, 814, 817]
+the yi, chi2 for yi and expectation value are 789 0.3776529032258083 806.4516129032259
+the yi, chi2 for yi and expectation value are 821 0.6401058064516132 806.4516129032259
+the yi, chi2 for yi and expectation value are 804 0.6475587096774199 806.4516129032259
+the yi, chi2 for yi and expectation value are 792 0.9065316129032279 806.4516129032259
+the yi, chi2 for yi and expectation value are 828 1.482304516129032 806.4516129032259
+the yi, chi2 for yi and expectation value are 789 1.8599574193548403 806.4516129032259
+the yi, chi2 for yi and expectation value are 810 1.8755703225806464 806.4516129032259
+the yi, chi2 for yi and expectation value are 818 2.0409432258064517 806.4516129032259
+the yi, chi2 for yi and expectation value are 790 2.37655612903226 806.4516129032259
+the yi, chi2 for yi and expectation value are 818 2.541929032258065 806.4516129032259
+the yi, chi2 for yi and expectation value are 809 2.5499819354838715 806.4516129032259
+the yi, chi2 for yi and expectation value are 791 2.84603483870968 806.4516129032259
+the yi, chi2 for yi and expectation value are 826 3.319887741935484 806.4516129032259
+the yi, chi2 for yi and expectation value are 792 3.578860645161292 806.4516129032259
+the yi, chi2 for yi and expectation value are 805 3.5814735483870987 806.4516129032259
+the yi, chi2 for yi and expectation value are 821 3.8439264516129037 806.4516129032259
+the yi, chi2 for yi and expectation value are 790 4.179539354838712 806.4516129032259
+the yi, chi2 for yi and expectation value are 817 4.317512258064518 806.4516129032259
+the yi, chi2 for yi and expectation value are 812 4.355685161290324 806.4516129032259
+the yi, chi2 for yi and expectation value are 789 4.733338064516132 806.4516129032259
+the yi, chi2 for yi and expectation value are 825 5.159950967741937 806.4516129032259
+the yi, chi2 for yi and expectation value are 796 5.2954038709677445 806.4516129032259
+the yi, chi2 for yi and expectation value are 800 5.347016774193552 806.4516129032259
+the yi, chi2 for yi and expectation value are 823 5.686589677419357 806.4516129032259
+the yi, chi2 for yi and expectation value are 789 6.064242580645165 806.4516129032259
+the yi, chi2 for yi and expectation value are 815 6.15485548387097 806.4516129032259
+the yi, chi2 for yi and expectation value are 815 6.245468387096776 806.4516129032259
+the yi, chi2 for yi and expectation value are 788 6.667641290322584 806.4516129032259
+the yi, chi2 for yi and expectation value are 824 7.049494193548389 806.4516129032259
+the yi, chi2 for yi and expectation value are 800 7.1011070967741965 806.4516129032259
+the yi, chi2 for yi and expectation value are 796 7.236560000000004 806.4516129032259
+the yi, chi2 for yi and expectation value are 825 7.663172903225808 806.4516129032259
+the yi, chi2 for yi and expectation value are 789 8.040825806451616 806.4516129032259
+the yi, chi2 for yi and expectation value are 813 8.093998709677422 806.4516129032259
+the yi, chi2 for yi and expectation value are 817 8.231971612903227 806.4516129032259
+the yi, chi2 for yi and expectation value are 788 8.654144516129035 806.4516129032259
+the yi, chi2 for yi and expectation value are 821 8.91659741935484 806.4516129032259
+the yi, chi2 for yi and expectation value are 805 8.919210322580646 806.4516129032259
+the yi, chi2 for yi and expectation value are 793 9.143583225806454 806.4516129032259
+the yi, chi2 for yi and expectation value are 825 9.570196129032258 806.4516129032259
+the yi, chi2 for yi and expectation value are 793 9.794569032258066 806.4516129032259
+the yi, chi2 for yi and expectation value are 807 9.794941935483871 806.4516129032259
+the yi, chi2 for yi and expectation value are 819 9.990194838709677 806.4516129032259
+the yi, chi2 for yi and expectation value are 789 10.367847741935485 806.4516129032259
+the yi, chi2 for yi and expectation value are 819 10.56310064516129 806.4516129032259
+the yi, chi2 for yi and expectation value are 810 10.578713548387096 806.4516129032259
+the yi, chi2 for yi and expectation value are 790 10.914326451612904 806.4516129032259
+the yi, chi2 for yi and expectation value are 826 11.388179354838709 806.4516129032259
+the yi, chi2 for yi and expectation value are 793 11.612552258064516 806.4516129032259
+the yi, chi2 for yi and expectation value are 803 11.627325161290324 806.4516129032259
+the yi, chi2 for yi and expectation value are 822 11.927098064516128 806.4516129032259
+the yi, chi2 for yi and expectation value are 789 12.304750967741937 806.4516129032259
+the yi, chi2 for yi and expectation value are 815 12.395363870967742 806.4516129032259
+the yi, chi2 for yi and expectation value are 814 12.466016774193548 806.4516129032259
+the yi, chi2 for yi and expectation value are 789 12.843669677419356 806.4516129032259
+the yi, chi2 for yi and expectation value are 824 13.22552258064516 806.4516129032259
+the yi, chi2 for yi and expectation value are 798 13.314095483870968 806.4516129032259
+the yi, chi2 for yi and expectation value are 799 13.382948387096775 806.4516129032259
+the yi, chi2 for yi and expectation value are 824 13.764801290322579 806.4516129032259
+the yi, chi2 for yi and expectation value are 788 14.186974193548387 806.4516129032259
+the yi, chi2 for yi and expectation value are 814 14.257627096774193 806.4516129032259
+the yi, chi2 for yi and expectation value are 817 14.395599999999998 806.4516129032259
+the total number of RN which been classified is 50000
+chi2 is 14.395599999999998
+thet result of classification by bins is [807, 806, 807, 808, 807, 808, 806, 808, 806, 806, 806, 806, 807, 806, 808, 808, 803, 809, 804, 804, 809, 806, 807, 803, 807, 807, 808, 805, 805, 806, 808, 807, 806, 807, 808, 804, 806, 807, 806, 806, 806, 808, 805, 808, 806, 805, 805, 808, 805, 809, 806, 804, 807, 806, 808, 808, 807, 805, 807, 807, 807, 805]
+the yi, chi2 for yi and expectation value are 807 0.00037290322580639176 806.4516129032259
+the yi, chi2 for yi and expectation value are 806 0.0006258064516128927 806.4516129032259
+the yi, chi2 for yi and expectation value are 807 0.0009987096774192845 806.4516129032259
+the yi, chi2 for yi and expectation value are 808 0.003971612903225567 806.4516129032259
+the yi, chi2 for yi and expectation value are 807 0.004344516129031958 806.4516129032259
+the yi, chi2 for yi and expectation value are 808 0.007317419354838241 806.4516129032259
+the yi, chi2 for yi and expectation value are 806 0.0075703225806447415 806.4516129032259
+the yi, chi2 for yi and expectation value are 808 0.010543225806451024 806.4516129032259
+the yi, chi2 for yi and expectation value are 806 0.010796129032257525 806.4516129032259
+the yi, chi2 for yi and expectation value are 806 0.011049032258064025 806.4516129032259
+the yi, chi2 for yi and expectation value are 806 0.011301935483870526 806.4516129032259
+the yi, chi2 for yi and expectation value are 806 0.011554838709677027 806.4516129032259
+the yi, chi2 for yi and expectation value are 807 0.011927741935483419 806.4516129032259
+the yi, chi2 for yi and expectation value are 806 0.01218064516128992 806.4516129032259
+the yi, chi2 for yi and expectation value are 808 0.015153548387096202 806.4516129032259
+the yi, chi2 for yi and expectation value are 808 0.018126451612902484 806.4516129032259
+the yi, chi2 for yi and expectation value are 803 0.03289935483870931 806.4516129032259
+the yi, chi2 for yi and expectation value are 809 0.04095225806451548 806.4516129032259
+the yi, chi2 for yi and expectation value are 804 0.0484051612903222 806.4516129032259
+the yi, chi2 for yi and expectation value are 804 0.055858064516128916 806.4516129032259
+the yi, chi2 for yi and expectation value are 809 0.06391096774193508 806.4516129032259
+the yi, chi2 for yi and expectation value are 806 0.06416387096774158 806.4516129032259
+the yi, chi2 for yi and expectation value are 807 0.06453677419354797 806.4516129032259
+the yi, chi2 for yi and expectation value are 803 0.0793096774193548 806.4516129032259
+the yi, chi2 for yi and expectation value are 807 0.07968258064516119 806.4516129032259
+the yi, chi2 for yi and expectation value are 807 0.08005548387096759 806.4516129032259
+the yi, chi2 for yi and expectation value are 808 0.08302838709677388 806.4516129032259
+the yi, chi2 for yi and expectation value are 805 0.08564129032258049 806.4516129032259
+the yi, chi2 for yi and expectation value are 805 0.0882541935483871 806.4516129032259
+the yi, chi2 for yi and expectation value are 806 0.08850709677419359 806.4516129032259
+the yi, chi2 for yi and expectation value are 808 0.09147999999999987 806.4516129032259
+the yi, chi2 for yi and expectation value are 807 0.09185290322580626 806.4516129032259
+the yi, chi2 for yi and expectation value are 806 0.09210580645161276 806.4516129032259
+the yi, chi2 for yi and expectation value are 807 0.09247870967741915 806.4516129032259
+the yi, chi2 for yi and expectation value are 808 0.09545161290322543 806.4516129032259
+the yi, chi2 for yi and expectation value are 804 0.10290451612903215 806.4516129032259
+the yi, chi2 for yi and expectation value are 806 0.10315741935483864 806.4516129032259
+the yi, chi2 for yi and expectation value are 807 0.10353032258064504 806.4516129032259
+the yi, chi2 for yi and expectation value are 806 0.10378322580645154 806.4516129032259
+the yi, chi2 for yi and expectation value are 806 0.10403612903225803 806.4516129032259
+the yi, chi2 for yi and expectation value are 806 0.10428903225806453 806.4516129032259
+the yi, chi2 for yi and expectation value are 808 0.10726193548387081 806.4516129032259
+the yi, chi2 for yi and expectation value are 805 0.10987483870967742 806.4516129032259
+the yi, chi2 for yi and expectation value are 808 0.11284774193548369 806.4516129032259
+the yi, chi2 for yi and expectation value are 806 0.11310064516129019 806.4516129032259
+the yi, chi2 for yi and expectation value are 805 0.1157135483870968 806.4516129032259
+the yi, chi2 for yi and expectation value are 805 0.11832645161290341 806.4516129032259
+the yi, chi2 for yi and expectation value are 808 0.12129935483870968 806.4516129032259
+the yi, chi2 for yi and expectation value are 805 0.12391225806451629 806.4516129032259
+the yi, chi2 for yi and expectation value are 809 0.13196516129032246 806.4516129032259
+the yi, chi2 for yi and expectation value are 806 0.13221806451612897 806.4516129032259
+the yi, chi2 for yi and expectation value are 804 0.1396709677419357 806.4516129032259
+the yi, chi2 for yi and expectation value are 807 0.14004387096774207 806.4516129032259
+the yi, chi2 for yi and expectation value are 806 0.14029677419354858 806.4516129032259
+the yi, chi2 for yi and expectation value are 808 0.14326967741935487 806.4516129032259
+the yi, chi2 for yi and expectation value are 808 0.14624258064516116 806.4516129032259
+the yi, chi2 for yi and expectation value are 807 0.14661548387096754 806.4516129032259
+the yi, chi2 for yi and expectation value are 805 0.14922838709677416 806.4516129032259
+the yi, chi2 for yi and expectation value are 807 0.14960129032258054 806.4516129032259
+the yi, chi2 for yi and expectation value are 807 0.14997419354838692 806.4516129032259
+the yi, chi2 for yi and expectation value are 807 0.1503470967741933 806.4516129032259
+the yi, chi2 for yi and expectation value are 805 0.15295999999999993 806.4516129032259
+the total number of RN which been classified is 50000
+chi2 is 0.15295999999999993
+thet result of classification by bins is [803, 807, 798, 807, 810, 804, 810, 807, 805, 805, 808, 805, 813, 795, 805, 804, 818, 802, 807, 805, 804, 808, 804, 808, 807, 806, 803, 815, 801, 813, 794, 807, 807, 809, 805, 808, 806, 805, 809, 804, 812, 806, 805, 800, 818, 805, 808, 796, 808, 811, 807, 807, 812, 809, 802, 811, 805, 814, 797, 806, 800, 820]
+the total number of RN which been classified is 50000
+chi2 is 2.0030400000000004 
+
+
+
+thet result of classification by bins is [806, 810, 808, 803, 810, 802, 808, 807, 806, 798, 813, 802, 811, 803, 806, 805, 812, 808, 806, 806, 801, 809, 802, 816, 802, 804, 802, 815, 802, 810, 803, 803, 806, 813, 806, 810, 810, 801, 811, 801, 819, 801, 803, 801, 814, 804, 806, 804, 804, 805, 809, 806, 808, 812, 798, 808, 808, 810, 802, 802, 804, 815]
+the total number of RN which been classified is 50000
+chi2 is 1.5988000000000007 
+
+
+
+thet result of classification by bins is [805, 802, 814, 800, 808, 808, 804, 808, 803, 810, 805, 802, 812, 801, 812, 805, 804, 811, 800, 813, 803, 805, 811, 802, 810, 805, 804, 809, 806, 812, 801, 808, 808, 800, 814, 804, 806, 807, 806, 811, 802, 808, 808, 802, 810, 803, 807, 808, 803, 812, 801, 809, 805, 805, 813, 802, 808, 806, 806, 809, 802, 812]
+the total number of RN which been classified is 50000
+chi2 is 1.1598399999999998 
+
+
+
+thet result of classification by bins is [807, 805, 811, 815, 809, 795, 802, 802, 809, 811, 814, 799, 801, 807, 805, 806, 817, 817, 800, 801, 806, 803, 809, 811, 815, 796, 805, 811, 800, 805, 815, 815, 799, 803, 804, 800, 809, 817, 813, 797, 803, 808, 804, 808, 813, 811, 802, 797, 802, 804, 812, 818, 810, 795, 806, 806, 801, 811, 810, 809, 801, 803]
+the total number of RN which been classified is 50000
+chi2 is 2.702400000000001 
+
+
+
+thet result of classification by bins is [807, 807, 802, 812, 800, 817, 802, 807, 796, 820, 797, 809, 804, 804, 803, 810, 807, 807, 811, 799, 807, 807, 818, 799, 801, 804, 816, 807, 805, 806, 804, 809, 807, 808, 808, 809, 798, 807, 805, 811, 802, 804, 805, 814, 808, 808, 807, 801, 814, 799, 810, 808, 804, 797, 816, 805, 809, 803, 805, 805, 809, 810]
+the total number of RN which been classified is 50000
+chi2 is 2.035280000000001 
+
+
+
+thet result of classification by bins is [806, 803, 807, 811, 814, 803, 805, 807, 803, 802, 816, 816, 801, 801, 800, 800, 812, 812, 815, 795, 805, 808, 801, 803, 817, 814, 802, 797, 807, 800, 810, 815, 813, 797, 807, 802, 809, 808, 812, 813, 800, 801, 805, 805, 807, 818, 814, 793, 805, 807, 807, 808, 813, 807, 798, 806, 808, 801, 812, 815, 806, 795]
+the total number of RN which been classified is 50000
+chi2 is 2.7867199999999994 
+
+
+
+thet result of classification by bins is [807, 808, 803, 807, 809, 804, 808, 808, 803, 808, 807, 804, 808, 807, 805, 806, 807, 806, 805, 808, 808, 804, 808, 807, 804, 808, 807, 804, 807, 807, 805, 807, 807, 805, 808, 807, 807, 806, 808, 808, 804, 808, 807, 803, 808, 807, 804, 808, 807, 804, 808, 807, 806, 807, 808, 805, 806, 807, 806, 805, 808, 807]
+the total number of RN which been classified is 50000
+chi2 is 0.19016000000000002 
+
+
+

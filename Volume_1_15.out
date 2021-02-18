@@ -1,0 +1,10 @@
+the volume of 1 dimension shpere is: 3.1419131072608613 with standard error of mean 0.0007584028542173007 via MersenneTwister
+the volume of 2 dimension shpere is: 4.187788681221132 with standard error of mean 0.0015454183013619517 via MersenneTwister and 10000000.0 points
+the volume of 3 dimension shpere is: 4.931796681364067 with standard error of mean 0.0013695855298130623 via MersenneTwister and 50000000.0 points
+the volume of 4 dimension shpere is: 5.265534424482186 with standard error of mean 0.003229807746759004 via MersenneTwister and 30000000.0 points
+the volume of 5 dimension shpere is: 5.182585823354691 with standard error of mean 0.005176351280765298 via MersenneTwister and 35000000.0 points
+the volume of 6 dimension shpere is: 4.750663749981036 with standard error of mean 0.008605285966151658 via MersenneTwister and 35000000.0 points
+the volume of 7 dimension shpere is: 4.131461286853871 with standard error of mean 0.02602376117129882 via MersenneTwister and 10000000.0 points
+the volume of 8 dimension shpere is: 3.2939500170605 with standard error of mean 0.01273027566774761 via MersenneTwister and 100000000.0 points
+the volume of 9 dimension shpere is: 2.5829719345289726 with standard error of mean 0.023338750413291986 via MersenneTwister and 70000000.0 points
+the volume of 10 dimension shpere is: 1.8423286157671384 with standard error of mean 0.09032712223998357 via MersenneTwister and 10000000.0 points
